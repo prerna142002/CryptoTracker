@@ -1,0 +1,3 @@
+show all
+after button click shows the crypto price
+search fiter
